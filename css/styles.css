@@ -1,0 +1,21 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+  #left {
+    display: inline-block;
+    width: 30%;
+    height: auto;
+}
+#middle {
+    display: inline-block;
+    width: 30%;
+
+    height: auto;
+}
+#right {
+    display: inline-block;
+    width: 30%;
+
+    float: right;
+    height: auto;
+}
